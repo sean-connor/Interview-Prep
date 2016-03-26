@@ -4,8 +4,8 @@
 - **Explain how this works in JavaScript**
 - **Explain how prototypal inheritance works**
 - **What do you think of AMD vs CommonJS?**
-- **Explain why the following doesn't work as an IIFE: function foo(){ }();.
-**  - **What needs to be changed to properly make it an IIFE?**
+- **Explain why the following doesn't work as an IIFE: function foo(){ }();.**  
+  - **What needs to be changed to properly make it an IIFE?**
 - **What's the difference between a variable that is: null, undefined or undeclared?
 **  - **How would you go about checking for any of these states?**
 - **What is a closure, and how/why would you use one?**
@@ -20,8 +20,8 @@
 - **Explain Ajax in as much detail as possible.**
 - **What are the advantages and disadvantages of using Ajax?**
 - **Explain how JSONP works (and how it's not really Ajax).**
-- **Have you ever used JavaScript templating?
-**  - **If so, what libraries have you used?**
+- **Have you ever used JavaScript templating?**  
+  - **If so, what libraries have you used?**
 - **Explain "hoisting".**
 - **Describe event bubbling.**
 - **What's the difference between an "attribute" and a "property"?**
@@ -47,8 +47,8 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]**
   - **What are the pros and cons of immutability?**
   - **How can you achieve immutability in your own code?**
 - **Explain the difference between synchronous and asynchronous functions.**
-- **What is event loop?
-**  - **What is the difference between call stack and task queue?**
+- **What is event loop?**  
+  - **What is the difference between call stack and task queue?**
 - **Explain the differences on the usage of foo between function foo() {} and var foo = function() {}**
 
 
