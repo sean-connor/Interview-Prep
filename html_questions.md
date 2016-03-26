@@ -1,3 +1,4 @@
+[Home] [home]
 ## HTML Questions:
 - **What does a doctype do?**
   - Informs the browser which version of HTML/XHTML to expect so that it knows how to render the page.
@@ -23,3 +24,5 @@
 - **Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before</body>? Do you know any exceptions?**
 - **What is progressive rendering?**
 - **Have you used different HTML templating languages before?**
+
+[home]: ./README.md
